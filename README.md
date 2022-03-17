@@ -1,1 +1,0 @@
-# turtle_stamp.py
